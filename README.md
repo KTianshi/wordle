@@ -4,11 +4,6 @@ A web-based implementation of Wordle!
 
 ## How to Play
 
-**Play Online (Recommended)**
-- Visit: `https://KTianshi.github.io/wordle/`
-- No installation needed - just open the link and start playing!
-
-**Play Locally**
 1. Clone this repository
 2. Open `index.html` in a web browser
 
